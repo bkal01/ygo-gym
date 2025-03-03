@@ -1,5 +1,8 @@
 import json
 import requests
+import time
+
+from tqdm import tqdm
 
 YGORESOURCES_API_URL = "https://db.ygoresources.com/data/"
 
@@ -33,3 +36,33 @@ def scrape_card_ids():
         print(f"Error fetching data from API: {e}")
     except json.JSONDecodeError as e:
         print(f"Error parsing JSON response: {e}")
+
+def scrape_card_infos():
+    try:
+        with open("data/card_ids.txt", "r") as f:
+            card_ids = [line.strip() for line in f if line.strip()]
+    except FileNotFoundError:
+        print("Error: data/card_ids.txt not found")
+        return
+    
+    card_infos = []
+    total_cards = len(card_ids)
+    
+    for card_id in tqdm(card_ids, total=total_cards):
+        url = f"{YGORESOURCES_API_URL}card/{card_id}"
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            card_info = response.json()
+            card_infos.append(card_info)
+        except requests.RequestException as e:
+            print(f"Error fetching data for card ID {card_id}: {e}")
+        except json.JSONDecodeError as e:
+            print(f"Error parsing JSON for card ID {card_id}: {e}")
+        
+        time.sleep(1)
+    
+    with open("data/card_infos.json", "w") as f:
+        json.dump(card_infos, f, indent=2)
+    
+    print(f"Successfully fetched {len(card_infos)} out of {total_cards} cards")
