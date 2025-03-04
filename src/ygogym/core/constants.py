@@ -89,6 +89,13 @@ class SpellTrapPosition(Enum):
     FACE_UP = "face_up"
     FACE_DOWN = "face_down"
 
+class CardLocation(Enum):
+    DECK = "deck"
+    HAND = "hand"
+    FIELD = "field"
+    GRAVEYARD = "graveyard"
+    BANISHED = "banished"
+    EXTRA_DECK = "extra_deck"
 
 # Actions
 class Action(Enum):
