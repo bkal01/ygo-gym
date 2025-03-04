@@ -1,0 +1,8312 @@
+{
+  "4439": {
+    "atk": 1450,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
+    "id": 4439,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Ancient Elf",
+    "prints": [
+      {
+        "code": "SDY-024",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-037",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "MRD-EN037",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4852": {
+    "cardType": "spell",
+    "effectText": "See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.",
+    "id": 4852,
+    "name": "Ancient Telescope",
+    "prints": [
+      {
+        "code": "SDK-039",
+        "date": "2002-03-29"
+      }
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4133": {
+    "atk": 1700,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A silent and deadly warrior specializing in assassinations.",
+    "id": 4133,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Ansatsu",
+    "prints": [
+      {
+        "code": "SDY-016",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4219": {
+    "atk": 1200,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+    "id": 4219,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Aqua Madoor",
+    "prints": [
+      {
+        "code": "LOB-027",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDP-008",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN109",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN221",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YSKR-EN002",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "SBCB-EN002",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "LOB-EN027",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4178": {
+    "atk": 700,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+    "id": 4178,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Armaill",
+    "prints": [
+      {
+        "code": "LOB-079",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN079",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4475": {
+    "atk": 300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 300,
+    "effectText": "FLIP: Target 1 Spell Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Spell Card. Otherwise, return it to its original position.)",
+    "id": 4475,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Armed Ninja",
+    "prints": [
+      {
+        "code": "LOB-106",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDP-018",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN130",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN013",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN014",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL13-EN001",
+        "date": "2011-12-01"
+      },
+      {
+        "code": "LOB-EN106",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4621": {
+    "atk": 850,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "A bluish starfish with a solid hide capable of fending off attacks.",
+    "id": 4621,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Armored Starfish",
+    "prints": [
+      {
+        "code": "LOB-116",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN116",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      31,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4882": {
+    "atk": 1550,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.",
+    "id": 4882,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Baron of the Fiend Sword",
+    "prints": [
+      {
+        "code": "SDY-036",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4056": {
+    "atk": 500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
+    "id": 4056,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Basic Insect",
+    "prints": [
+      {
+        "code": "LOB-008",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS03-ENB04",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN008",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      34,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4032": {
+    "atk": 1700,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+    "id": 4032,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Battle Ox",
+    "prints": [
+      {
+        "code": "SDK-005",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-002",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "YSKR-EN004",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "DEM2-EN004",
+        "date": "2015-03-30"
+      },
+      {
+        "code": "LDK2-ENK09",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "SS02-ENA02",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "KC01-EN015",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      13,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4314": {
+    "cardType": "spell",
+    "effectText": "A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4314,
+    "name": "Beast Fangs",
+    "prints": [
+      {
+        "code": "LOB-041",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN041",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4033": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1500,
+    "effectText": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+    "id": 4033,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Beaver Warrior",
+    "prints": [
+      {
+        "code": "LOB-064",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-005",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-006",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN121",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "YGLD-ENA12",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SS04-ENA05",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "LOB-EN064",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      13,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4007": {
+    "atk": 3000,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 2500,
+    "effectText": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+    "id": 4007,
+    "level": 8,
+    "linkArrows": "",
+    "name": "Blue-Eyes White Dragon",
+    "prints": [
+      {
+        "code": "LOB-001",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DDS-001",
+        "date": "2002-03-19"
+      },
+      {
+        "code": "SDK-001",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "BPT-003",
+        "date": "2002-10-04"
+      },
+      {
+        "code": "JMP-EN001",
+        "date": "2002-11-26"
+      },
+      {
+        "code": "BPT-009",
+        "date": "2003-09-01"
+      },
+      {
+        "code": "SKE-001",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "PCK-001",
+        "date": "2004-04-06"
+      },
+      {
+        "code": "DB1-EN098",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN001",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN002",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "YAP1-EN001",
+        "date": "2008-12-08"
+      },
+      {
+        "code": "DTP1-EN001",
+        "date": "2009-06-20"
+      },
+      {
+        "code": "DL09-EN001",
+        "date": "2009-08-01"
+      },
+      {
+        "code": "DT01-EN001",
+        "date": "2010-01-29"
+      },
+      {
+        "code": "DPKB-EN001",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "SDDC-EN004",
+        "date": "2012-02-07"
+      },
+      {
+        "code": "GLD5-EN001",
+        "date": "2012-06-12"
+      },
+      {
+        "code": "SDBE-EN001",
+        "date": "2013-09-13"
+      },
+      {
+        "code": "YSKR-EN001",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "JUMP-EN068",
+        "date": "2014-03-31"
+      },
+      {
+        "code": "PGL2-EN080",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "DPBC-EN016",
+        "date": "2015-06-19"
+      },
+      {
+        "code": "JMPS-EN002",
+        "date": "2016-02-01"
+      },
+      {
+        "code": "MVP1-EN055",
+        "date": "2016-07-22"
+      },
+      {
+        "code": "CT13-EN008",
+        "date": "2016-09-02"
+      },
+      {
+        "code": "LDK2-ENK01",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "SDKS-EN009",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "MVP1-ENG55",
+        "date": "2017-01-13"
+      },
+      {
+        "code": "MVP1-ENGV4",
+        "date": "2017-01-13"
+      },
+      {
+        "code": "DUSA-EN043",
+        "date": "2017-03-31"
+      },
+      {
+        "code": "CT14-EN002",
+        "date": "2017-08-25"
+      },
+      {
+        "code": "KACB-EN001",
+        "date": "2017-11-17"
+      },
+      {
+        "code": "LCKC-EN001",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "LED3-EN006",
+        "date": "2018-09-28"
+      },
+      {
+        "code": "SS02-ENA01",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "STP1-EN004",
+        "date": "2019-04-18"
+      },
+      {
+        "code": "MVP1-ENSV4",
+        "date": "2020-01-23"
+      },
+      {
+        "code": "MVP1-ENS55",
+        "date": "2020-01-24"
+      },
+      {
+        "code": "2020-EN001",
+        "date": "2020-08-29"
+      },
+      {
+        "code": "MAGO-EN001",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "SBCB-EN087",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "LDS2-EN001",
+        "date": "2021-01-22"
+      },
+      {
+        "code": "MGED-EN001",
+        "date": "2021-11-19"
+      },
+      {
+        "code": "HAC1-EN001",
+        "date": "2022-03-11"
+      },
+      {
+        "code": "GFP2-EN175",
+        "date": "2022-05-06"
+      },
+      {
+        "code": "MP22-EN266",
+        "date": "2022-09-16"
+      },
+      {
+        "code": "MAMA-EN104",
+        "date": "2022-11-04"
+      },
+      {
+        "code": "LC01-EN004",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "LOB-EN001",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "(KC01)",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "KC01-EN000",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "KC01-EN004",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "MP24-EN001",
+        "date": "2024-09-20"
+      },
+      {
+        "code": "RA03-EN079",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENB02",
+        "date": "2024-12-13"
+      },
+      {
+        "code": "SDWD-EN001",
+        "date": "2025-02-14"
+      },
+      {
+        "code": "SDWD-EN002",
+        "date": "2025-02-14"
+      },
+      {
+        "code": "SDWD-EN003",
+        "date": "2025-02-14"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2025-02-14",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4329": {
+    "cardType": "spell",
+    "effectText": "A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4329,
+    "name": "Book of Secret Arts",
+    "prints": [
+      {
+        "code": "LOB-043",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-021",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LOB-EN043",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4821": {
+    "banlistStatus": 1,
+    "cardType": "spell",
+    "effectText": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+    "id": 4821,
+    "name": "Card Destruction",
+    "prints": [
+      {
+        "code": "SDY-042",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-032",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SD8-EN018",
+        "date": "2006-07-12"
+      },
+      {
+        "code": "RP01-EN084",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "SDZW-EN031",
+        "date": "2008-10-21"
+      },
+      {
+        "code": "DLG1-EN085",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "5DS3-EN021",
+        "date": "2010-06-01"
+      },
+      {
+        "code": "SDDL-EN030",
+        "date": "2011-03-08"
+      },
+      {
+        "code": "SDGU-EN028",
+        "date": "2011-10-18"
+      },
+      {
+        "code": "LCYW-EN060",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENB27",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "OP09-EN008",
+        "date": "2018-12-07"
+      },
+      {
+        "code": "SR13-EN032",
+        "date": "2022-12-02"
+      }
+    ],
+    "thisSrc": {
+      "date": "2022-12-02",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4850": {
+    "cardType": "trap",
+    "effectText": "Increase a selected monster's DEF by 500 points during the turn this card is activated.",
+    "id": 4850,
+    "name": "Castle Walls",
+    "prints": [
+      {
+        "code": "SDK-049",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-049",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-045",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-043",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "YSD-EN033",
+        "date": "2006-03-23"
+      }
+    ],
+    "thisSrc": {
+      "date": "2006-03-23",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4047": {
+    "atk": 1400,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+    "id": 4047,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Celtic Guardian",
+    "prints": [
+      {
+        "code": "LOB-007",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-009",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-008",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN104",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "YAP1-EN004",
+        "date": "2008-12-08"
+      },
+      {
+        "code": "LCYW-EN003",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENA09",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "MIL1-EN026",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "SS04-ENA06",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "LOB-EN007",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4860": {
+    "banlistStatus": 1,
+    "cardType": "spell",
+    "effectText": "Target 1 monster your opponent controls; take control of it until the End Phase.",
+    "id": 4860,
+    "name": "Change of Heart",
+    "prints": [
+      {
+        "code": "SDY-032",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-060",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SDJ-030",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-030",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-032",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SYE-030",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN168",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "BP01-EN037",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN124",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "MAMA-EN078",
+        "date": "2022-11-04"
+      },
+      {
+        "code": "MRD-EN060",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "RA01-EN050",
+        "date": "2023-11-03"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-11-03",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4139": {
+    "atk": 1100,
+    "attribute": "fire",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "\"Monster Egg\" + \"Hinotama Soul\"",
+    "id": 4139,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Charubin the Fire Knight",
+    "prints": [
+      {
+        "code": "LOB-015",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN015",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      37,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4184": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
+    "id": 4184,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Claw Reacher",
+    "prints": [
+      {
+        "code": "SDY-018",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4045": {
+    "atk": 2000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1500,
+    "effectText": "A wicked dragon that taps into dark forces to execute a powerful attack.",
+    "id": 4045,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Curse of Dragon",
+    "prints": [
+      {
+        "code": "LOB-066",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-008",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DB1-EN123",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN009",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN010",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "LCYW-EN006",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENA07",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SS04-ENA03",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "LOB-EN066",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4508": {
+    "atk": 1300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1100,
+    "effectText": "Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",
+    "id": 4508,
+    "level": 4,
+    "linkArrows": "",
+    "name": "D. Human",
+    "prints": [
+      {
+        "code": "SDK-030",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4247": {
+    "atk": 1200,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
+    "id": 4247,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Dark Assailant",
+    "prints": [
+      {
+        "code": "SDK-015",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      32,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4309": {
+    "cardType": "spell",
+    "effectText": "Equip only to a Fiend monster. It gains 300 ATK/DEF.",
+    "id": 4309,
+    "name": "Dark Energy",
+    "prints": [
+      {
+        "code": "LOB-088",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-020",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LOB-EN088",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN051",
+        "date": "2024-03-01"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4119": {
+    "atk": 800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "Entirely gray, this beast has rarely been seen by mortal eyes.",
+    "id": 4119,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Dark Gray",
+    "prints": [
+      {
+        "code": "LOB-011",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN011",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4342": {
+    "cardType": "spell",
+    "effectText": "Destroy all monsters on the field.",
+    "id": 4342,
+    "name": "Dark Hole",
+    "prints": [
+      {
+        "code": "LOB-052",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-022",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-022",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-026",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-026",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-026",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN113",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "TU04-EN017",
+        "date": "2010-11-19"
+      },
+      {
+        "code": "TU05-EN001",
+        "date": "2011-04-09"
+      },
+      {
+        "code": "GLD5-EN037",
+        "date": "2012-06-12"
+      },
+      {
+        "code": "SDWA-EN023",
+        "date": "2012-06-26"
+      },
+      {
+        "code": "LCYW-EN053",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "SDRE-EN031",
+        "date": "2012-10-16"
+      },
+      {
+        "code": "LCJW-EN283",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "YSKR-EN028",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "YSYR-EN025",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "YS14-ENA10",
+        "date": "2014-07-11"
+      },
+      {
+        "code": "NKRT-EN024",
+        "date": "2014-11-21"
+      },
+      {
+        "code": "PGL2-EN089",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YS15-ENY12",
+        "date": "2015-05-28"
+      },
+      {
+        "code": "YS15-ENF13",
+        "date": "2015-05-29"
+      },
+      {
+        "code": "YS15-ENL14",
+        "date": "2015-05-29"
+      },
+      {
+        "code": "DEM3-EN012",
+        "date": "2016-01-14"
+      },
+      {
+        "code": "DESO-EN042",
+        "date": "2016-11-18"
+      },
+      {
+        "code": "YS17-EN023",
+        "date": "2017-07-21"
+      },
+      {
+        "code": "YS18-EN025",
+        "date": "2018-07-13"
+      },
+      {
+        "code": "LEHD-ENB21",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "LEHD-ENC15",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "OP12-EN022",
+        "date": "2019-12-05"
+      },
+      {
+        "code": "LOB-EN052",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "BLMR-EN086",
+        "date": "2023-06-23"
+      },
+      {
+        "code": "OP23-EN023",
+        "date": "2023-10-26"
+      },
+      {
+        "code": "SR14-EN030",
+        "date": "2023-12-08"
+      },
+      {
+        "code": "STAS-EN024",
+        "date": "2024-01-26"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-01-26",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4175": {
+    "atk": 1200,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "It's said that this King of the Netherworld once had the power to rule over the dark.",
+    "id": 4175,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Dark King of the Abyss",
+    "prints": [
+      {
+        "code": "LOB-020",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN108",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN220",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LOB-EN020",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4041": {
+    "atk": 2500,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 2100,
+    "effectText": "The ultimate wizard in terms of attack and defense.",
+    "id": 4041,
+    "level": 7,
+    "linkArrows": "",
+    "name": "Dark Magician",
+    "prints": [
+      {
+        "code": "JUMP-EN049",
+        "date": ""
+      },
+      {
+        "code": "LOB-005",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DDS-002",
+        "date": "2002-03-19"
+      },
+      {
+        "code": "SDY-006",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "BPT-001",
+        "date": "2002-10-04"
+      },
+      {
+        "code": "BPT-007",
+        "date": "2003-09-01"
+      },
+      {
+        "code": "PCY-004",
+        "date": "2003-11-18"
+      },
+      {
+        "code": "SYE-001",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN102",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SD6-EN003",
+        "date": "2006-01-18"
+      },
+      {
+        "code": "RP01-EN003",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN004",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DTP1-EN002",
+        "date": "2009-06-20"
+      },
+      {
+        "code": "DPYG-EN001",
+        "date": "2009-07-07"
+      },
+      {
+        "code": "DT01-EN002",
+        "date": "2010-01-29"
+      },
+      {
+        "code": "DL11-EN001",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN001",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YSYR-EN001",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "DPBC-EN008",
+        "date": "2015-06-19"
+      },
+      {
+        "code": "YGLD-ENA03",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENB02",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENC09",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "JMPS-EN003",
+        "date": "2016-07-01"
+      },
+      {
+        "code": "MVP1-EN054",
+        "date": "2016-07-22"
+      },
+      {
+        "code": "CT13-EN003",
+        "date": "2016-09-02"
+      },
+      {
+        "code": "LDK2-ENY10",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "SDMY-EN010",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "MVP1-ENG54",
+        "date": "2017-01-13"
+      },
+      {
+        "code": "MVP1-ENGV3",
+        "date": "2017-01-13"
+      },
+      {
+        "code": "DUSA-EN100",
+        "date": "2017-03-31"
+      },
+      {
+        "code": "CT14-EN001",
+        "date": "2017-08-25"
+      },
+      {
+        "code": "YUCB-EN001",
+        "date": "2017-09-15"
+      },
+      {
+        "code": "LEDD-ENA01",
+        "date": "2017-10-06"
+      },
+      {
+        "code": "SS01-ENA01",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "DUPO-EN101",
+        "date": "2019-04-03"
+      },
+      {
+        "code": "STP1-EN001",
+        "date": "2019-04-18"
+      },
+      {
+        "code": "MVP1-ENSV3",
+        "date": "2020-01-23"
+      },
+      {
+        "code": "MVP1-ENS54",
+        "date": "2020-01-24"
+      },
+      {
+        "code": "SS04-ENA01",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "MAGO-EN002",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "SBCB-EN001",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "GFTP-EN128",
+        "date": "2021-04-16"
+      },
+      {
+        "code": "2021-EN001",
+        "date": "2021-08-28"
+      },
+      {
+        "code": "MGED-EN002",
+        "date": "2021-11-19"
+      },
+      {
+        "code": "25TH-EN001",
+        "date": "2022-02-11"
+      },
+      {
+        "code": "HAC1-EN002",
+        "date": "2022-03-11"
+      },
+      {
+        "code": "ADC1-EN001",
+        "date": "2023-01-26"
+      },
+      {
+        "code": "LC01-EN005",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "LOB-EN005",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENA01",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "SBC1-ENG01",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "SBC1-ENG10",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "TN23-EN001",
+        "date": "2023-09-08"
+      },
+      {
+        "code": "STAX-EN005",
+        "date": "2024-01-26"
+      },
+      {
+        "code": "RA03-EN080",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENA12",
+        "date": "2024-12-13"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4239": {
+    "atk": 1300,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1100,
+    "effectText": "A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.",
+    "id": 4239,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Dark Titan of Terror",
+    "prints": [
+      {
+        "code": "SDK-014",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4174": {
+    "atk": 1500,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1250,
+    "effectText": "\"Firegrass\" + \"Petit Dragon\"",
+    "id": 4174,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Darkfire Dragon",
+    "prints": [
+      {
+        "code": "LOB-019",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-016",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "LOB-EN019",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4573": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+    "id": 4573,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Darkworld Thorns",
+    "prints": [
+      {
+        "code": "LOB-114",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN114",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      25,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4843": {
+    "cardType": "spell",
+    "effectText": "Target 1 face-up Spell, or 1 Set Spell/Trap, on the field; destroy that target if it is a Spell. (If the target is Set, reveal it.)",
+    "id": 4843,
+    "name": "De-Spell",
+    "prints": [
+      {
+        "code": "SDK-035",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-029",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-029",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-029",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-028",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SBLS-EN037",
+        "date": "2019-03-29"
+      }
+    ],
+    "thisSrc": {
+      "date": "2019-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4460": {
+    "atk": 1500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A golem with a massive right hand for crushing its victims.",
+    "id": 4460,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Destroyer Golem",
+    "prints": [
+      {
+        "code": "SDK-028",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-040",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SBCB-EN028",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "MRD-EN040",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      24,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4348": {
+    "cardType": "spell",
+    "effectText": "Increase your Life Points by 1000 points.",
+    "id": 4348,
+    "name": "Dian Keto the Cure Master",
+    "prints": [
+      {
+        "code": "SDY-023",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-027",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-027",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-027",
+        "date": "2004-03-01"
+      }
+    ],
+    "thisSrc": {
+      "date": "2004-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4250": {
+    "atk": 900,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
+    "id": 4250,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Dissolverock",
+    "prints": [
+      {
+        "code": "LOB-031",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN031",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      24,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4117": {
+    "atk": 1600,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "This fairy rules over the end of existence.",
+    "id": 4117,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Doma The Angel of Silence",
+    "prints": [
+      {
+        "code": "SDY-015",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-015",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "MRD-EN015",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      15,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4335": {
+    "cardType": "trap",
+    "effectText": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.",
+    "id": 4335,
+    "name": "Dragon Capture Jar",
+    "prints": [
+      {
+        "code": "LOB-045",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-044",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "TP3-010",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "DB1-EN111",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN117",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LOB-EN045",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "continuous",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4321": {
+    "cardType": "spell",
+    "effectText": "A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4321,
+    "name": "Dragon Treasure",
+    "prints": [
+      {
+        "code": "LOB-092",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-038",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "LOB-EN092",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4103": {
+    "atk": 1600,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 0,
+    "effectText": "A dragon revived by sorcery. Its breath is highly corrosive.",
+    "id": 4103,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Dragon Zombie",
+    "prints": [
+      {
+        "code": "SDY-014",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LCJW-EN183",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "SBLS-EN028",
+        "date": "2019-03-29"
+      }
+    ],
+    "properties": [
+      32,
+      6
+    ],
+    "thisSrc": {
+      "date": "2019-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4300": {
+    "atk": 1200,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+    "id": 4300,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Dragoness the Wicked Knight",
+    "prints": [
+      {
+        "code": "LOB-086",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN086",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4575": {
+    "atk": 900,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "A blood-sucking snake in human form that attacks any living being that passes nearby.",
+    "id": 4575,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Drooling Lizard",
+    "prints": [
+      {
+        "code": "LOB-115",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN115",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      29,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4322": {
+    "cardType": "spell",
+    "effectText": "A Thunder-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4322,
+    "name": "Electro-Whip",
+    "prints": [
+      {
+        "code": "LOB-093",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN093",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4257": {
+    "atk": 1200,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A beautiful mermaid that lures voyagers to a watery grave.",
+    "id": 4257,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Enchanting Mermaid",
+    "prints": [
+      {
+        "code": "LOB-084",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "OP03-EN014",
+        "date": "2016-11-18"
+      },
+      {
+        "code": "LOB-EN084",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      5,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4027": {
+    "atk": 1000,
+    "attribute": "dark",
+    "banlistStatus": 1,
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+    "id": 4027,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Exodia the Forbidden One",
+    "prints": [
+      {
+        "code": "LOB-124",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DDS-003",
+        "date": "2002-03-19"
+      },
+      {
+        "code": "DB1-EN139",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN021",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN022",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL11-EN006",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN306",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "PGL2-EN026",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YGLD-ENA17",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY04",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LART-EN004",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "MGED-EN005",
+        "date": "2021-11-19"
+      },
+      {
+        "code": "BLCR-EN101",
+        "date": "2022-11-18"
+      },
+      {
+        "code": "LOB-EN124",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "TN23-EN002",
+        "date": "2023-09-08"
+      },
+      {
+        "code": "OP25-EN001",
+        "date": "2024-06-12"
+      }
+    ],
+    "properties": [
+      8,
+      4
+    ],
+    "thisSrc": {
+      "date": "2024-06-12",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4012": {
+    "atk": 1300,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+    "id": 4012,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Feral Imp",
+    "prints": [
+      {
+        "code": "SDY-002",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-001",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SYE-003",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN140",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN008",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENA11",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "OP05-EN015",
+        "date": "2017-08-03"
+      },
+      {
+        "code": "SS01-ENA02",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "MRD-EN001",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4192": {
+    "atk": 1100,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "A bird-beast that summons reinforcements with a hand mirror.",
+    "id": 4192,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Fiend Reflection #2",
+    "prints": [
+      {
+        "code": "LOB-021",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN021",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      35,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4351": {
+    "cardType": "spell",
+    "effectText": "Inflict 600 points of damage to your opponent's Life Points.",
+    "id": 4351,
+    "name": "Final Flame",
+    "prints": [
+      {
+        "code": "LOB-100",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-012",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "LOB-EN100",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4163": {
+    "atk": 700,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 600,
+    "effectText": "A fire-breathing plant found growing near volcanoes.",
+    "id": 4163,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Firegrass",
+    "prints": [
+      {
+        "code": "LOB-018",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN018",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      25,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4297": {
+    "atk": 1300,
+    "attribute": "fire",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A malevolent creature wrapped in flames that attacks enemies with intense fire.",
+    "id": 4297,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Fireyarou",
+    "prints": [
+      {
+        "code": "LOB-085",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "AP08-EN015",
+        "date": "2015-10-23"
+      },
+      {
+        "code": "LOB-EN085",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      37,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4835": {
+    "cardType": "spell",
+    "effectText": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+    "id": 4835,
+    "name": "Fissure",
+    "prints": [
+      {
+        "code": "LOB-057",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-032",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-026",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-028",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-028",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-027",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SYE-028",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN117",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "HL2-EN006",
+        "date": "2006-01-01"
+      },
+      {
+        "code": "YSD-EN025",
+        "date": "2006-03-23"
+      },
+      {
+        "code": "RP01-EN006",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN007",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "SDSC-EN025",
+        "date": "2009-03-31"
+      },
+      {
+        "code": "DEM1-EN013",
+        "date": "2011-02-12"
+      },
+      {
+        "code": "YS11-EN025",
+        "date": "2011-07-12"
+      },
+      {
+        "code": "YS12-EN025",
+        "date": "2012-04-17"
+      },
+      {
+        "code": "BP01-EN065",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN055",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "SDGR-EN024",
+        "date": "2014-10-17"
+      },
+      {
+        "code": "LOB-EN057",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "STAS-EN022",
+        "date": "2024-01-26"
+      },
+      {
+        "code": "RA03-EN084",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENC13",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4221": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "\"Skull Servant\" + \"Dissolverock\"",
+    "id": 4221,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Flame Ghost",
+    "prints": [
+      {
+        "code": "LOB-029",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN029",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      32,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4148": {
+    "atk": 900,
+    "attribute": "fire",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+    "id": 4148,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Flame Manipulator",
+    "prints": [
+      {
+        "code": "LOB-016",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-006",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN107",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCJW-EN001",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "SS02-ENB03",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN016",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4021": {
+    "atk": 1800,
+    "attribute": "fire",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+    "id": 4021,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Flame Swordsman",
+    "prints": [
+      {
+        "code": "LOB-003",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-024",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN100",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN002",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN003",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "LCJW-EN053",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "MIL1-EN038",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "SS02-ENB20",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN003",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENB22",
+        "date": "2023-08-25"
+      }
+    ],
+    "properties": [
+      12,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-08-25",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4493": {
+    "atk": 1800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "\"Silver Fang\" + \"Darkworld Thorns\"",
+    "id": 4493,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Flower Wolf",
+    "prints": [
+      {
+        "code": "LOB-107",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN107",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4333": {
+    "cardType": "spell",
+    "effectText": "A Winged Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4333,
+    "name": "Follow Wind",
+    "prints": [
+      {
+        "code": "LOB-098",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN098",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4336": {
+    "cardType": "spell",
+    "effectText": "All Insect, Beast, Plant, and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+    "id": 4336,
+    "name": "Forest",
+    "prints": [
+      {
+        "code": "LOB-046",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS03-ENB17",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN046",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4207": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A savage beast that carries a big bamboo stick for beating down its enemies.",
+    "id": 4207,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Frenzied Panda",
+    "prints": [
+      {
+        "code": "LOB-081",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN081",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4195": {
+    "atk": 900,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+    "id": 4195,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Fusionist",
+    "prints": [
+      {
+        "code": "LOB-022",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "OP03-EN027",
+        "date": "2016-11-18"
+      },
+      {
+        "code": "LOB-EN022",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4044": {
+    "atk": 2300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 2100,
+    "effectText": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+    "id": 4044,
+    "level": 7,
+    "linkArrows": "",
+    "name": "Gaia The Fierce Knight",
+    "prints": [
+      {
+        "code": "LOB-006",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-007",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-007",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN103",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN004",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN005",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "LCYW-EN002",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENA05",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "MIL1-EN025",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "SS04-ENA02",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "LOB-EN006",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "STP7-EN006",
+        "date": "2024-04-03"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-04-03",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4043": {
+    "atk": 2600,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 2100,
+    "effectText": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+    "id": 4043,
+    "level": 7,
+    "linkArrows": "",
+    "name": "Gaia the Dragon Champion",
+    "prints": [
+      {
+        "code": "LOB-125",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN122",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN022",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN023",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "YGLD-ENA41",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SS04-ENA31",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "MAGO-EN025",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "LOB-EN125",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4080": {
+    "atk": 1300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+    "id": 4080,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Giant Soldier of Stone",
+    "prints": [
+      {
+        "code": "LOB-068",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-013",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-007",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-010",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN124",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN010",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN011",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "BP01-EN171",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN007",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YSYR-EN003",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "DEM2-EN001",
+        "date": "2015-03-30"
+      },
+      {
+        "code": "YGLD-ENA15",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SDMY-EN019",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "SS04-ENA08",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "SBCB-EN027",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "LOB-EN068",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "STAX-EN002",
+        "date": "2024-01-26"
+      }
+    ],
+    "properties": [
+      24,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-01-26",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4346": {
+    "cardType": "spell",
+    "effectText": "Increase your Life Points by 600 points.",
+    "id": 4346,
+    "name": "Goblin's Secret Remedy",
+    "prints": [
+      {
+        "code": "LOB-099",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-011",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "LOB-EN099",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4845": {
+    "cardType": "spell",
+    "effectText": "Target up to 2 monsters in your opponent's Graveyard; banish them.",
+    "id": 4845,
+    "name": "Gravedigger Ghoul",
+    "prints": [
+      {
+        "code": "LOB-065",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN065",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4066": {
+    "atk": 1600,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "A giant white shark with razor-sharp teeth.",
+    "id": 4066,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Great White",
+    "prints": [
+      {
+        "code": "SDY-011",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-009",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SBAD-EN021",
+        "date": "2019-05-31"
+      }
+    ],
+    "properties": [
+      5,
+      6
+    ],
+    "thisSrc": {
+      "date": "2019-05-31",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4280": {
+    "atk": 500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "This youthful king of the forests lives in a green world, abundant with trees and wildlife.",
+    "id": 4280,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Green Phantom King",
+    "prints": [
+      {
+        "code": "LOB-034",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN034",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      25,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4096": {
+    "atk": 1800,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+    "id": 4096,
+    "level": 6,
+    "linkArrows": "",
+    "name": "Gyakutenno Megami",
+    "prints": [
+      {
+        "code": "SDK-011",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "YAP1-EN005",
+        "date": "2008-12-08"
+      },
+      {
+        "code": "KC01-EN009",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      15,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4547": {
+    "atk": 450,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 500,
+    "effectText": "FLIP: Select 1 monster on the field and return it to its owner's hand.",
+    "id": 4547,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Hane-Hane",
+    "prints": [
+      {
+        "code": "LOB-110",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-046",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-010",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-019",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN132",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN015",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN016",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "LOB-EN110",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4162": {
+    "atk": 300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
+    "id": 4162,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Hard Armor",
+    "prints": [
+      {
+        "code": "LOB-074",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN074",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4350": {
+    "cardType": "spell",
+    "effectText": "Inflict 500 damage to your opponent.",
+    "id": 4350,
+    "name": "Hinotama",
+    "prints": [
+      {
+        "code": "LOB-056",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN116",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCJW-EN058",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "LOB-EN056",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4216": {
+    "atk": 600,
+    "attribute": "fire",
+    "cardType": "monster",
+    "def": 500,
+    "effectText": "An intensely hot flame creature that rams anything standing in its way.",
+    "id": 4216,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Hinotama Soul",
+    "prints": [
+      {
+        "code": "LOB-026",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN026",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      37,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4009": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+    "id": 4009,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Hitotsu-Me Giant",
+    "prints": [
+      {
+        "code": "LOB-002",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-002",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DB1-EN099",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "DPKB-EN002",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "LOB-EN002",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN019",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      13,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4330": {
+    "cardType": "spell",
+    "effectText": "An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+    "id": 4330,
+    "name": "Invigoration",
+    "prints": [
+      {
+        "code": "SDK-021",
+        "date": "2002-03-29"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4039": {
+    "atk": 2200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1500,
+    "effectText": "This club-wielding warrior battles to the end and will never surrender.",
+    "id": 4039,
+    "level": 6,
+    "linkArrows": "",
+    "name": "Judge Man",
+    "prints": [
+      {
+        "code": "SDK-007",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DPKB-EN003",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "LCKC-EN004",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "KC01-EN006",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4865": {
+    "cardType": "trap",
+    "effectText": "Inflict 500 damage to your opponent for each monster they control.",
+    "id": 4865,
+    "name": "Just Desserts",
+    "prints": [
+      {
+        "code": "SDK-040",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-042",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-043",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "LCKC-EN105",
+        "date": "2018-03-09"
+      }
+    ],
+    "thisSrc": {
+      "date": "2018-03-09",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4220": {
+    "atk": 800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 400,
+    "effectText": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",
+    "id": 4220,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Kagemusha of the Blue Flame",
+    "prints": [
+      {
+        "code": "LOB-028",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN028",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4049": {
+    "atk": 1500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+    "id": 4049,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Karbonala Warrior",
+    "prints": [
+      {
+        "code": "LOB-067",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-015",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "LOB-EN067",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENB20",
+        "date": "2023-08-25"
+      }
+    ],
+    "properties": [
+      12,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-08-25",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4285": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A fiend that dwells in a blinding curtain of smoke.",
+    "id": 4285,
+    "level": 3,
+    "linkArrows": "",
+    "name": "King Fog",
+    "prints": [
+      {
+        "code": "LOB-036",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN036",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4072": {
+    "atk": 1500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A man-hunter with powerful arms that can crush boulders.",
+    "id": 4072,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Kojikocy",
+    "prints": [
+      {
+        "code": "SDK-009",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-010",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SKE-005",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN147",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "MRD-EN010",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4037": {
+    "atk": 1500,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
+    "id": 4037,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Koumori Dragon",
+    "prints": [
+      {
+        "code": "SDK-006",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-003",
+        "date": "2004-03-01"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2004-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4227": {
+    "atk": 700,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "A massive, intelligent spider that traps enemies with webbing.",
+    "id": 4227,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Kumootoko",
+    "prints": [
+      {
+        "code": "LOB-082",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS03-ENB06",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN082",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      34,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4306": {
+    "atk": 800,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "A vicious bird that attacks from the skies with its whip-like tail.",
+    "id": 4306,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Kurama",
+    "prints": [
+      {
+        "code": "LOB-039",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN039",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      35,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4385": {
+    "atk": 1800,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A genie of the lamp that is at the beck and call of its master.",
+    "id": 4385,
+    "level": 4,
+    "linkArrows": "",
+    "name": "La Jinn the Mystical Genie of the Lamp",
+    "prints": [
+      {
+        "code": "SDK-026",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-009",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "MDP2-EN007",
+        "date": "2006-12-26"
+      },
+      {
+        "code": "RP01-EN085",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN086",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DPKB-EN005",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "YSKR-EN003",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "DEM2-EN003",
+        "date": "2015-03-30"
+      },
+      {
+        "code": "MIL1-EN029",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "LDK2-ENK10",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LCKC-EN002",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "SBCB-EN090",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "STAX-EN003",
+        "date": "2024-01-26"
+      },
+      {
+        "code": "KC01-EN014",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "SBC2-ENB06",
+        "date": "2024-12-13"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4161": {
+    "atk": 800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",
+    "id": 4161,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Larvas",
+    "prints": [
+      {
+        "code": "LOB-073",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN073",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4311": {
+    "cardType": "spell",
+    "effectText": "Equip only to an Insect monster. It gains 300 ATK/DEF.",
+    "id": 4311,
+    "name": "Laser Cannon Armor",
+    "prints": [
+      {
+        "code": "LOB-089",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS03-ENB16",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN089",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4885": {
+    "banlistStatus": 0,
+    "cardType": "spell",
+    "effectText": "If a monster on your side of the field was sent to your Graveyard this turn, you can Special Summon 1 monster with an ATK of 1500 points or less from your Deck once during this turn. Then shuffle your Deck.",
+    "id": 4885,
+    "name": "Last Will",
+    "prints": [
+      {
+        "code": "SDY-039",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-031",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "TP7-EN015",
+        "date": "2005-11-01"
+      }
+    ],
+    "thisSrc": {
+      "date": "2005-11-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4026": {
+    "atk": 200,
+    "attribute": "dark",
+    "banlistStatus": 1,
+    "cardType": "monster",
+    "def": 300,
+    "effectText": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+    "id": 4026,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Left Arm of the Forbidden One",
+    "prints": [
+      {
+        "code": "LOB-123",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN138",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN020",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN021",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL11-EN005",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN305",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "PGL2-EN025",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YGLD-ENA21",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY06",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LART-EN005",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "BLCR-EN105",
+        "date": "2022-11-18"
+      },
+      {
+        "code": "LOB-EN123",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "MP24-EN005",
+        "date": "2024-09-20"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-09-20",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4024": {
+    "atk": 200,
+    "attribute": "dark",
+    "banlistStatus": 1,
+    "cardType": "monster",
+    "def": 300,
+    "effectText": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+    "id": 4024,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Left Leg of the Forbidden One",
+    "prints": [
+      {
+        "code": "LOB-121",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN136",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN018",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN019",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL11-EN003",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN303",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "PGL2-EN023",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YGLD-ENA19",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY08",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LART-EN003",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "BLCR-EN103",
+        "date": "2022-11-18"
+      },
+      {
+        "code": "LOB-EN121",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "MP24-EN003",
+        "date": "2024-09-20"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-09-20",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4307": {
+    "cardType": "spell",
+    "effectText": "Equip only to a Warrior monster. It gains 300 ATK/DEF.",
+    "id": 4307,
+    "name": "Legendary Sword",
+    "prints": [
+      {
+        "code": "LOB-040",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS02-ENB13",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN040",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4567": {
+    "atk": 1200,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A minor dragon incapable of breathing fire.",
+    "id": 4567,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Lesser Dragon",
+    "prints": [
+      {
+        "code": "LOB-113",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN113",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4747": {
+    "atk": 1200,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1100,
+    "effectText": "Neither player can target Dragon monsters on the field with card effects.",
+    "id": 4747,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Lord of D.",
+    "prints": [
+      {
+        "code": "SDK-041",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "BPT-004",
+        "date": "2002-10-04"
+      },
+      {
+        "code": "SKE-016",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "RP01-EN086",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN087",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DPKB-EN009",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "SDDC-EN015",
+        "date": "2012-02-07"
+      },
+      {
+        "code": "DL17-EN001",
+        "date": "2013-12-13"
+      },
+      {
+        "code": "DPBC-EN017",
+        "date": "2015-06-19"
+      },
+      {
+        "code": "SDKS-EN011",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "SS02-ENA05",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "STP1-EN005",
+        "date": "2019-04-18"
+      },
+      {
+        "code": "STP6-EN016",
+        "date": "2023-09-06"
+      },
+      {
+        "code": "KC01-EN030",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      8,
+      4
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4166": {
+    "atk": 1000,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 500,
+    "effectText": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+    "id": 4166,
+    "level": 3,
+    "linkArrows": "",
+    "name": "M-Warrior #1",
+    "prints": [
+      {
+        "code": "LOB-076",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN076",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4167": {
+    "atk": 500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",
+    "id": 4167,
+    "level": 3,
+    "linkArrows": "",
+    "name": "M-Warrior #2",
+    "prints": [
+      {
+        "code": "LOB-077",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN077",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4331": {
+    "cardType": "spell",
+    "effectText": "Equip only to a Machine monster. It gains 300 ATK/DEF.",
+    "id": 4331,
+    "name": "Machine Conversion Factory",
+    "prints": [
+      {
+        "code": "LOB-096",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SBSC-EN028",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN096",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4476": {
+    "atk": 1300,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "This creature casts a spell of terror and confusion just before attacking its enemies.",
+    "id": 4476,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Magical Ghost",
+    "prints": [
+      {
+        "code": "SDY-025",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SBLS-EN030",
+        "date": "2019-03-29"
+      }
+    ],
+    "properties": [
+      32,
+      6
+    ],
+    "thisSrc": {
+      "date": "2019-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4065": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.",
+    "id": 4065,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Mammoth Graveyard",
+    "prints": [
+      {
+        "code": "LOB-009",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-010",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DB1-EN105",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "YGLD-ENA16",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LOB-EN009",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      36,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4164": {
+    "atk": 800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 600,
+    "effectText": "Man-eating plant with poison feelers for attacking enemies.",
+    "id": 4164,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Man Eater",
+    "prints": [
+      {
+        "code": "LOB-075",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN075",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      25,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4507": {
+    "atk": 450,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 600,
+    "effectText": "FLIP: Target 1 monster on the field; destroy it.",
+    "id": 4507,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Man-Eater Bug",
+    "prints": [
+      {
+        "code": "LOB-108",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-046",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-015",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-017",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN131",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN014",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN015",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DLDI-EN001",
+        "date": "2009-08-01"
+      },
+      {
+        "code": "5DS3-EN006",
+        "date": "2010-06-01"
+      },
+      {
+        "code": "DEM1-EN005",
+        "date": "2011-02-12"
+      },
+      {
+        "code": "LCYW-EN119",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "SS03-ENB10",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "STP2-EN008",
+        "date": "2019-10-11"
+      },
+      {
+        "code": "LOB-EN108",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "RA03-EN082",
+        "date": "2024-11-07"
+      }
+    ],
+    "properties": [
+      34,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4883": {
+    "atk": 1600,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+    "id": 4883,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Man-Eating Treasure Chest",
+    "prints": [
+      {
+        "code": "SDY-037",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DEM2-EN005",
+        "date": "2015-03-30"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2015-03-30",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4299": {
+    "atk": 1100,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1100,
+    "effectText": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
+    "id": 4299,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Masaki the Legendary Swordsman",
+    "prints": [
+      {
+        "code": "LOB-038",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-007",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN110",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCJW-EN002",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "SS02-ENB04",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN038",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4254": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A deadly duo consisting of a beast master and its loyal servant.",
+    "id": 4254,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Master & Expert",
+    "prints": [
+      {
+        "code": "SDK-016",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4251": {
+    "atk": 800,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 400,
+    "effectText": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
+    "id": 4251,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Meda Bat",
+    "prints": [
+      {
+        "code": "LOB-083",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN083",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4415": {
+    "atk": 1850,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1700,
+    "effectText": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+    "id": 4415,
+    "level": 6,
+    "linkArrows": "",
+    "name": "Metal Dragon",
+    "prints": [
+      {
+        "code": "LOB-102",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN102",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      9,
+      11
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4548": {
+    "atk": 1400,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "A missile-launching fish protected by deadly spikes.",
+    "id": 4548,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Misairuzame",
+    "prints": [
+      {
+        "code": "LOB-111",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN111",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      5,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4153": {
+    "atk": 600,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+    "id": 4153,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Monster Egg",
+    "prints": [
+      {
+        "code": "LOB-017",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN017",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4842": {
+    "banlistStatus": 1,
+    "cardType": "spell",
+    "effectText": "Target 1 monster in either GY; Special Summon it.",
+    "id": 4842,
+    "name": "Monster Reborn",
+    "prints": [
+      {
+        "code": "LOB-118",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-036",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-030",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-035",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-035",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-029",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SYE-029",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN133",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "HL07-EN001",
+        "date": "2008-07-01"
+      },
+      {
+        "code": "RP01-EN016",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN017",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DPYG-EN019",
+        "date": "2009-07-07"
+      },
+      {
+        "code": "LCYW-EN058",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "BP02-EN128",
+        "date": "2013-06-28"
+      },
+      {
+        "code": "SDBE-EN028",
+        "date": "2013-09-13"
+      },
+      {
+        "code": "LCJW-EN060",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "YGLD-ENA23",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENB16",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENC24",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LART-EN001",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "BLRR-EN046",
+        "date": "2018-06-29"
+      },
+      {
+        "code": "YS18-EN024",
+        "date": "2018-07-13"
+      },
+      {
+        "code": "LEHD-ENA23",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "LEHD-ENB19",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "LEHD-ENC16",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "TN19-EN011",
+        "date": "2019-08-30"
+      },
+      {
+        "code": "LED7-EN012",
+        "date": "2020-09-25"
+      },
+      {
+        "code": "MAGO-EN045",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "EGO1-EN024",
+        "date": "2021-06-18"
+      },
+      {
+        "code": "EGS1-EN023",
+        "date": "2021-06-18"
+      },
+      {
+        "code": "LOB-EN118",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN037",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "RA03-EN052",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENA15",
+        "date": "2024-12-13"
+      },
+      {
+        "code": "SBC2-END14",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4338": {
+    "cardType": "spell",
+    "effectText": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+    "id": 4338,
+    "name": "Mountain",
+    "prints": [
+      {
+        "code": "LOB-048",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-037",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-034",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SS02-ENA14",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN048",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4172": {
+    "atk": 1000,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1500,
+    "effectText": "(This card is not treated as a \"Puppet\" card.)\nIf another monster is Normal or Flip Summoned: Gain 500 LP.",
+    "id": 4172,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Mysterious Puppeteer",
+    "prints": [
+      {
+        "code": "SDK-043",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-017",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "OP21-EN013",
+        "date": "2023-02-08"
+      }
+    ],
+    "properties": [
+      12,
+      4
+    ],
+    "thisSrc": {
+      "date": "2023-02-08",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4287": {
+    "atk": 1500,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "Nothing can stop the mad attack of this powerful creature.",
+    "id": 4287,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Mystic Clown",
+    "prints": [
+      {
+        "code": "SDK-018",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-019",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-011",
+        "date": "2004-03-01"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2004-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4097": {
+    "atk": 1300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1550,
+    "effectText": "Half man and half horse, this monster is known for its extreme speed.",
+    "id": 4097,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Mystic Horseman",
+    "prints": [
+      {
+        "code": "SDK-012",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-076",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SKE-007",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB2-EN048",
+        "date": "2005-07-27"
+      },
+      {
+        "code": "SBLS-EN010",
+        "date": "2019-03-29"
+      },
+      {
+        "code": "MRD-EN076",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN017",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4008": {
+    "atk": 800,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
+    "id": 4008,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Mystical Elf",
+    "prints": [
+      {
+        "code": "LOB-062",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-001",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-002",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN120",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN005",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YS13-EN004",
+        "date": "2013-06-14"
+      },
+      {
+        "code": "YSYR-EN002",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "YS14-EN008",
+        "date": "2014-07-11"
+      },
+      {
+        "code": "YS15-ENY02",
+        "date": "2015-05-28"
+      },
+      {
+        "code": "YS15-ENF02",
+        "date": "2015-05-29"
+      },
+      {
+        "code": "YGLD-ENA14",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "DEM3-EN001",
+        "date": "2016-01-14"
+      },
+      {
+        "code": "SBAD-EN003",
+        "date": "2019-05-31"
+      },
+      {
+        "code": "LOB-EN062",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4325": {
+    "cardType": "spell",
+    "effectText": "Equip only to a Beast-Warrior-Type monster. It gains 300 ATK and DEF.",
+    "id": 4325,
+    "name": "Mystical Moon",
+    "prints": [
+      {
+        "code": "LOB-094",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "YGLD-ENA30",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LOB-EN094",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4288": {
+    "atk": 800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A monstrous sheep with a long tail for hypnotizing enemies.",
+    "id": 4288,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Mystical Sheep #2",
+    "prints": [
+      {
+        "code": "LOB-037",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN037",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4135": {
+    "atk": 800,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.",
+    "id": 4135,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Nemuriko",
+    "prints": [
+      {
+        "code": "LOB-013",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN013",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4881": {
+    "atk": 1700,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+    "id": 4881,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Neo the Magic Swordsman",
+    "prints": [
+      {
+        "code": "SDY-035",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-012",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "YS13-EN003",
+        "date": "2013-06-14"
+      },
+      {
+        "code": "YSYR-EN005",
+        "date": "2013-12-06"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2013-12-06",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4293": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "An ogre possessed by the powers of the dark. Few can withstand its rapid charge.",
+    "id": 4293,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Ogre of the Black Shadow",
+    "prints": [
+      {
+        "code": "SDK-019",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      13,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4302": {
+    "atk": 700,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+    "id": 4302,
+    "level": 3,
+    "linkArrows": "",
+    "name": "One-Eyed Shield Dragon",
+    "prints": [
+      {
+        "code": "LOB-087",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN087",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4352": {
+    "cardType": "spell",
+    "effectText": "Inflict 800 points of damage to your opponent's Life Points.",
+    "id": 4352,
+    "name": "Ookazi",
+    "prints": [
+      {
+        "code": "SDK-023",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-026",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "YSD-EN020",
+        "date": "2006-03-23"
+      },
+      {
+        "code": "5DS2-EN031",
+        "date": "2009-06-09"
+      }
+    ],
+    "thisSrc": {
+      "date": "2009-06-09",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4603": {
+    "atk": 1500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+    "id": 4603,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Pale Beast",
+    "prints": [
+      {
+        "code": "SDK-031",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-047",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "MRD-EN047",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4214": {
+    "atk": 600,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A quick-moving and tiny fairy that's very difficult to hit.",
+    "id": 4214,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Petit Angel",
+    "prints": [
+      {
+        "code": "LOB-025",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN025",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      15,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4206": {
+    "atk": 600,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "A very small dragon known for its vicious attacks.",
+    "id": 4206,
+    "level": 2,
+    "linkArrows": "",
+    "name": "Petit Dragon",
+    "prints": [
+      {
+        "code": "LOB-024",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN024",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4837": {
+    "cardType": "spell",
+    "effectText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
+    "id": 4837,
+    "name": "Polymerization",
+    "prints": [
+      {
+        "code": "LOB-059",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDJ-036",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN119",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "DP1-EN014",
+        "date": "2006-02-08"
+      },
+      {
+        "code": "RP01-EN008",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN009",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DPYG-EN020",
+        "date": "2009-07-07"
+      },
+      {
+        "code": "DPKB-EN028",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "DT04-EN043",
+        "date": "2011-01-28"
+      },
+      {
+        "code": "LCYW-EN056",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LCJW-EN059",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "SDHS-EN023",
+        "date": "2015-01-30"
+      },
+      {
+        "code": "SP15-EN038",
+        "date": "2015-06-12"
+      },
+      {
+        "code": "YGLD-ENA35",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENB30",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENC28",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SDMP-EN034",
+        "date": "2015-12-04"
+      },
+      {
+        "code": "LDK2-ENJ26",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LDK2-ENK22",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "SDMY-EN031",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "FUEN-EN049",
+        "date": "2017-02-24"
+      },
+      {
+        "code": "DEM4-EN001",
+        "date": "2018-01-06"
+      },
+      {
+        "code": "LCKC-EN026",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "LEHD-ENA22",
+        "date": "2018-10-12"
+      },
+      {
+        "code": "SS02-ENB11",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "SDRR-EN031",
+        "date": "2019-08-16"
+      },
+      {
+        "code": "SS04-ENA18",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "SS04-ENB22",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "MAGO-EN044",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "SBCB-EN011",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "HAC1-EN022",
+        "date": "2022-03-11"
+      },
+      {
+        "code": "SGX1-ENA12",
+        "date": "2022-03-18"
+      },
+      {
+        "code": "SGX1-ENB10",
+        "date": "2022-03-18"
+      },
+      {
+        "code": "SGX1-ENC12",
+        "date": "2022-03-18"
+      },
+      {
+        "code": "SGX1-ENG11",
+        "date": "2022-03-18"
+      },
+      {
+        "code": "SGX2-ENA12",
+        "date": "2022-10-10"
+      },
+      {
+        "code": "LOB-EN059",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENB13",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "SBC1-ENH15",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "KC01-EN038",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "RA02-EN047",
+        "date": "2024-05-24"
+      },
+      {
+        "code": "RA03-EN051",
+        "date": "2024-11-07"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4844": {
+    "banlistStatus": 0,
+    "cardType": "spell",
+    "effectText": "Draw 2 cards.",
+    "id": 4844,
+    "name": "Pot of Greed",
+    "prints": [
+      {
+        "code": "LOB-119",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-014",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "SYE-040",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN134",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SD1-EN015",
+        "date": "2005-01-01"
+      },
+      {
+        "code": "SD2-EN017",
+        "date": "2005-01-01"
+      },
+      {
+        "code": "SD3-EN019",
+        "date": "2005-05-09"
+      },
+      {
+        "code": "SD4-EN018",
+        "date": "2005-05-09"
+      },
+      {
+        "code": "DPKB-EN029",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "BP01-EN034",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN059",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "BP02-EN129",
+        "date": "2013-06-28"
+      },
+      {
+        "code": "LCJW-EN061",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "YGLD-ENB26",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LOB-EN119",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4334": {
+    "cardType": "spell",
+    "effectText": "Equip only to an Aqua monster. It gains 300 ATK/DEF.",
+    "id": 4334,
+    "name": "Power of Kaishin",
+    "prints": [
+      {
+        "code": "LOB-044",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SBAD-EN030",
+        "date": "2019-05-31"
+      },
+      {
+        "code": "LOB-EN044",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4343": {
+    "cardType": "spell",
+    "effectText": "Destroy all monsters your opponent controls.",
+    "id": 4343,
+    "name": "Raigeki",
+    "prints": [
+      {
+        "code": "LOB-053",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN114",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN005",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN006",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "BP01-EN032",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN054",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LCJW-EN057",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "PGL2-EN048",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "OP02-EN003",
+        "date": "2016-07-15"
+      },
+      {
+        "code": "LCKC-EN088",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "TN19-EN010",
+        "date": "2019-08-30"
+      },
+      {
+        "code": "SDCH-EN021",
+        "date": "2020-10-23"
+      },
+      {
+        "code": "MGED-EN038",
+        "date": "2021-11-19"
+      },
+      {
+        "code": "SDBT-EN025",
+        "date": "2023-02-24"
+      },
+      {
+        "code": "LOB-EN053",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "MP24-EN056",
+        "date": "2024-09-20"
+      },
+      {
+        "code": "RA03-EN083",
+        "date": "2024-11-07"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4332": {
+    "cardType": "spell",
+    "effectText": "Equip only to a Dinosaur monster. It gains 300 ATK/DEF.",
+    "id": 4332,
+    "name": "Raise Body Heat",
+    "prints": [
+      {
+        "code": "LOB-097",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SS03-ENA17",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN097",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4282": {
+    "atk": 1000,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.",
+    "id": 4282,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Ray & Temperature",
+    "prints": [
+      {
+        "code": "LOB-035",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN035",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      15,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4090": {
+    "atk": 1380,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1930,
+    "effectText": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+    "id": 4090,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Reaper of the Cards",
+    "prints": [
+      {
+        "code": "LOB-071",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN127",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LOB-EN071",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4345": {
+    "cardType": "spell",
+    "effectText": "Increase your Life Points by 500 points.",
+    "id": 4345,
+    "name": "Red Medicine",
+    "prints": [
+      {
+        "code": "LOB-054",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN115",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "YSD-EN024",
+        "date": "2006-03-23"
+      },
+      {
+        "code": "LOB-EN054",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4088": {
+    "atk": 2400,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "A ferocious dragon with a deadly attack.",
+    "id": 4088,
+    "level": 7,
+    "linkArrows": "",
+    "name": "Red-Eyes Black Dragon",
+    "nameAliases": [
+      "Red-Eyes B. Dragon"
+    ],
+    "prints": [
+      {
+        "code": "LOB-070",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "BPT-005",
+        "date": "2002-10-04"
+      },
+      {
+        "code": "SDJ-001",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "PCJ-EN001",
+        "date": "2004-06-29"
+      },
+      {
+        "code": "DB1-EN126",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SD1-EN002",
+        "date": "2005-01-01"
+      },
+      {
+        "code": "RP01-EN011",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN012",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "YAP1-EN002",
+        "date": "2008-12-08"
+      },
+      {
+        "code": "DTP1-EN003",
+        "date": "2009-06-20"
+      },
+      {
+        "code": "DT01-EN003",
+        "date": "2010-01-29"
+      },
+      {
+        "code": "SDDC-EN005",
+        "date": "2012-02-07"
+      },
+      {
+        "code": "LCJW-EN003",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "DPBC-EN021",
+        "date": "2015-06-19"
+      },
+      {
+        "code": "MIL1-EN027",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "LDK2-ENJ01",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LEDU-EN000",
+        "date": "2017-09-08"
+      },
+      {
+        "code": "SS02-ENB01",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "STP1-EN007",
+        "date": "2019-04-18"
+      },
+      {
+        "code": "LDS1-EN001",
+        "date": "2020-07-03"
+      },
+      {
+        "code": "MAGO-EN003",
+        "date": "2020-11-13"
+      },
+      {
+        "code": "SBCB-EN167",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "MGED-EN003",
+        "date": "2021-11-19"
+      },
+      {
+        "code": "HAC1-EN003",
+        "date": "2022-03-11"
+      },
+      {
+        "code": "GFP2-EN176",
+        "date": "2022-05-06"
+      },
+      {
+        "code": "2022-EN001",
+        "date": "2022-08-27"
+      },
+      {
+        "code": "MP22-EN267",
+        "date": "2022-09-16"
+      },
+      {
+        "code": "MAMA-EN105",
+        "date": "2022-11-04"
+      },
+      {
+        "code": "SGX3-ENB02",
+        "date": "2023-03-31"
+      },
+      {
+        "code": "LC01-EN006",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "LOB-EN070",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENF01",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "TN23-EN003",
+        "date": "2023-09-08"
+      },
+      {
+        "code": "MP24-EN054",
+        "date": "2024-09-20"
+      },
+      {
+        "code": "RA03-EN081",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENI26",
+        "date": "2024-12-13"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4849": {
+    "cardType": "trap",
+    "effectText": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+    "id": 4849,
+    "name": "Reinforcements",
+    "prints": [
+      {
+        "code": "SDK-038",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-031",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-044",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-042",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "YSD-EN032",
+        "date": "2006-03-23"
+      },
+      {
+        "code": "DTP1-EN019",
+        "date": "2009-06-20"
+      },
+      {
+        "code": "DT01-EN049",
+        "date": "2010-01-29"
+      },
+      {
+        "code": "SS03-ENA26",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "SBTK-ENSP5",
+        "date": "2019-11-30"
+      }
+    ],
+    "thisSrc": {
+      "date": "2019-11-30",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4838": {
+    "cardType": "spell",
+    "effectText": "Target 1 face-up Trap on the field; destroy it.",
+    "id": 4838,
+    "name": "Remove Trap",
+    "prints": [
+      {
+        "code": "LOB-060",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-048",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-048",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-034",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-034",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-033",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "LOB-EN060",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC2-END17",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4695": {
+    "cardType": "trap",
+    "effectText": "Until the End Phase, all effects that add or subtract ATK or DEF are reversed. (Additions now subtract, and subtractions now add, instead. Multiplications and divisions, including halving/doubling, are not affected.)",
+    "id": 4695,
+    "name": "Reverse Trap",
+    "prints": [
+      {
+        "code": "SDK-047",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-047",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-050",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "BP02-EN169",
+        "date": "2013-06-28"
+      }
+    ],
+    "thisSrc": {
+      "date": "2013-06-28",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4025": {
+    "atk": 200,
+    "attribute": "dark",
+    "banlistStatus": 1,
+    "cardType": "monster",
+    "def": 300,
+    "effectText": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+    "id": 4025,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Right Arm of the Forbidden One",
+    "prints": [
+      {
+        "code": "LOB-122",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN137",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN019",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN020",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL11-EN004",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN304",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "PGL2-EN024",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YGLD-ENA20",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY05",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LART-EN006",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "BLCR-EN104",
+        "date": "2022-11-18"
+      },
+      {
+        "code": "LOB-EN122",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "MP24-EN004",
+        "date": "2024-09-20"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-09-20",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4023": {
+    "atk": 200,
+    "attribute": "dark",
+    "banlistStatus": 1,
+    "cardType": "monster",
+    "def": 300,
+    "effectText": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+    "id": 4023,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Right Leg of the Forbidden One",
+    "prints": [
+      {
+        "code": "LOB-120",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN135",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN017",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN018",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL11-EN002",
+        "date": "2010-12-01"
+      },
+      {
+        "code": "LCYW-EN302",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "PGL2-EN022",
+        "date": "2015-03-20"
+      },
+      {
+        "code": "YGLD-ENA18",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY07",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "LART-EN002",
+        "date": "2018-01-01"
+      },
+      {
+        "code": "BLCR-EN102",
+        "date": "2022-11-18"
+      },
+      {
+        "code": "LOB-EN120",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "MP24-EN002",
+        "date": "2024-09-20"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-09-20",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4050": {
+    "atk": 1600,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1000,
+    "effectText": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+    "id": 4050,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Rogue Doll",
+    "prints": [
+      {
+        "code": "SDK-008",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-005",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-004",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SS01-ENA03",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "SS01-ENC01",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "EVSD-EN002",
+        "date": "2019-08-02"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2019-08-02",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4253": {
+    "atk": 900,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
+    "id": 4253,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Root Water",
+    "prints": [
+      {
+        "code": "LOB-032",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN032",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      5,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4388": {
+    "atk": 1800,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "With an axe in each hand, this monster delivers heavy damage.",
+    "id": 4388,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Rude Kaiser",
+    "prints": [
+      {
+        "code": "SDK-027",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LCJW-EN004",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "KC01-EN011",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      13,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4011": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 500,
+    "effectText": "A very elusive creature that looks like a harmless statue until it attacks.",
+    "id": 4011,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Ryu-Kishin",
+    "prints": [
+      {
+        "code": "SDK-003",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "KC01-EN020",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4383": {
+    "atk": 1600,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+    "id": 4383,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Ryu-Kishin Powered",
+    "prints": [
+      {
+        "code": "SDK-024",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-092",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SKE-008",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB2-EN056",
+        "date": "2005-07-27"
+      },
+      {
+        "code": "SS02-ENA03",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "MRD-EN092",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN016",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4523": {
+    "atk": 1300,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "Appears from underground and attacks with long, snake-like tentacles.",
+    "id": 4523,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Sand Stone",
+    "prints": [
+      {
+        "code": "LOB-109",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN109",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      24,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4318": {
+    "cardType": "spell",
+    "effectText": "A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4318,
+    "name": "Silver Bow and Arrow",
+    "prints": [
+      {
+        "code": "LOB-091",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN091",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4071": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+    "id": 4071,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Silver Fang",
+    "prints": [
+      {
+        "code": "LOB-010",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-012",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DB1-EN106",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN004",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "SS04-ENA07",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "LOB-EN010",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      3,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4472": {
+    "atk": 1550,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "This monster swoops down and attacks with a rain of knives stored in its wings.",
+    "id": 4472,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Skull Red Bird",
+    "prints": [
+      {
+        "code": "LOB-105",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-029",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-010",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "LOB-EN105",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      35,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4030": {
+    "atk": 300,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 200,
+    "effectText": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
+    "id": 4030,
+    "level": 1,
+    "linkArrows": "",
+    "name": "Skull Servant",
+    "prints": [
+      {
+        "code": "LOB-004",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN101",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN219",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "OP01-EN014",
+        "date": "2016-03-18"
+      },
+      {
+        "code": "SBLS-EN025",
+        "date": "2019-03-29"
+      },
+      {
+        "code": "STP3-EN006",
+        "date": "2022-03-10"
+      },
+      {
+        "code": "LOB-EN004",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      32,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4339": {
+    "cardType": "spell",
+    "effectText": "All Warrior and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+    "id": 4339,
+    "name": "Sogen",
+    "prints": [
+      {
+        "code": "LOB-049",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-045",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SS02-ENB14",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN049",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4884": {
+    "atk": 1450,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+    "id": 4884,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Sorcerer of the Doomed",
+    "prints": [
+      {
+        "code": "SDY-038",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      8,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "5099": {
+    "cardType": "spell",
+    "effectText": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+    "id": 5099,
+    "name": "Soul Exchange",
+    "prints": [
+      {
+        "code": "SDY-041",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-033",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "TP7-EN010",
+        "date": "2005-11-01"
+      },
+      {
+        "code": "CP04-EN012",
+        "date": "2007-09-06"
+      },
+      {
+        "code": "SDRL-EN021",
+        "date": "2007-10-24"
+      },
+      {
+        "code": "DTP1-EN010",
+        "date": "2009-06-20"
+      },
+      {
+        "code": "DT01-EN036",
+        "date": "2010-01-29"
+      },
+      {
+        "code": "GLD4-EN035",
+        "date": "2011-07-01"
+      },
+      {
+        "code": "BP01-EN041",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "SDBE-EN030",
+        "date": "2013-09-13"
+      },
+      {
+        "code": "YSKR-EN029",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "AP05-EN021",
+        "date": "2014-07-25"
+      },
+      {
+        "code": "SR01-EN030",
+        "date": "2016-01-29"
+      },
+      {
+        "code": "LCKC-EN038",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "SBCB-EN098",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "SGX2-END15",
+        "date": "2022-10-10"
+      },
+      {
+        "code": "SGX3-ENC17",
+        "date": "2023-03-31"
+      },
+      {
+        "code": "KC01-EN042",
+        "date": "2024-03-01"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4349": {
+    "cardType": "spell",
+    "effectText": "Inflict 200 points of damage to your opponent's Life Points.",
+    "id": 4349,
+    "name": "Sparks",
+    "prints": [
+      {
+        "code": "LOB-055",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN055",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4454": {
+    "atk": 1600,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",
+    "id": 4454,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Spike Seadra",
+    "prints": [
+      {
+        "code": "LOB-103",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN103",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      17,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4176": {
+    "atk": 800,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 2000,
+    "effectText": "A spirit that soothes the soul with the music of its heavenly harp.",
+    "id": 4176,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Spirit of the Harp",
+    "prints": [
+      {
+        "code": "LOB-078",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "TP3-013",
+        "date": "2003-03-01"
+      },
+      {
+        "code": "SDJ-004",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "YS11-EN001",
+        "date": "2011-07-12"
+      },
+      {
+        "code": "YS12-EN002",
+        "date": "2012-04-17"
+      },
+      {
+        "code": "LOB-EN078",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "STAS-EN003",
+        "date": "2024-01-26"
+      }
+    ],
+    "properties": [
+      15,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-01-26",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4563": {
+    "atk": 1400,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1800,
+    "effectText": "A steel idol worshipped in the Land of Machines.",
+    "id": 4563,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Steel Ogre Grotto #1",
+    "prints": [
+      {
+        "code": "LOB-112",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN112",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      9,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4326": {
+    "cardType": "spell",
+    "effectText": "Target 1 Defense Position monster your opponent controls; change that target to Attack Position.",
+    "id": 4326,
+    "name": "Stop Defense",
+    "prints": [
+      {
+        "code": "LOB-095",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDP-031",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "DB1-EN128",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LOB-EN095",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "KC01-EN039",
+        "date": "2024-03-01"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4627": {
+    "atk": 1650,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "A warrior wizard adept in casting bone-chilling spells.",
+    "id": 4627,
+    "level": 5,
+    "linkArrows": "",
+    "name": "Succubus Knight",
+    "prints": [
+      {
+        "code": "LOB-117",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN117",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4028": {
+    "atk": 2500,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+    "id": 4028,
+    "level": 6,
+    "linkArrows": "",
+    "name": "Summoned Skull",
+    "prints": [
+      {
+        "code": "SDY-004",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-003",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "BPT-002",
+        "date": "2002-10-04"
+      },
+      {
+        "code": "SYE-005",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN142",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "RP01-EN024",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN025",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "YAP1-EN003",
+        "date": "2008-12-08"
+      },
+      {
+        "code": "DPYG-EN002",
+        "date": "2009-07-07"
+      },
+      {
+        "code": "DEM1-EN001",
+        "date": "2011-02-12"
+      },
+      {
+        "code": "DT05-EN001",
+        "date": "2011-05-29"
+      },
+      {
+        "code": "LCYW-EN010",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LCJW-EN235",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "YSYR-EN004",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "DEM2-EN002",
+        "date": "2015-03-30"
+      },
+      {
+        "code": "YGLD-ENA06",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "MIL1-EN028",
+        "date": "2016-04-15"
+      },
+      {
+        "code": "MRD-EN003",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENI01",
+        "date": "2023-08-25"
+      },
+      {
+        "code": "RA03-EN086",
+        "date": "2024-11-07"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4308": {
+    "cardType": "spell",
+    "effectText": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
+    "id": 4308,
+    "name": "Sword of Dark Destruction",
+    "prints": [
+      {
+        "code": "SDY-020",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SBAD-EN019",
+        "date": "2019-05-31"
+      },
+      {
+        "code": "SS05-ENA21",
+        "date": "2020-05-15"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2020-05-15",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4354": {
+    "cardType": "spell",
+    "effectText": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+    "id": 4354,
+    "name": "Swords of Revealing Light",
+    "prints": [
+      {
+        "code": "LOB-101",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SYE-039",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN129",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SD1-EN014",
+        "date": "2005-01-01"
+      },
+      {
+        "code": "SD6-EN021",
+        "date": "2006-01-18"
+      },
+      {
+        "code": "SD7-EN019",
+        "date": "2006-05-15"
+      },
+      {
+        "code": "HL04-EN002",
+        "date": "2007-04-01"
+      },
+      {
+        "code": "GLD1-EN030",
+        "date": "2008-04-02"
+      },
+      {
+        "code": "RP01-EN012",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN013",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "SDSC-EN026",
+        "date": "2009-03-31"
+      },
+      {
+        "code": "DPYG-EN018",
+        "date": "2009-07-07"
+      },
+      {
+        "code": "DL09-EN013",
+        "date": "2009-08-01"
+      },
+      {
+        "code": "SDMM-EN023",
+        "date": "2010-02-23"
+      },
+      {
+        "code": "YS11-EN026",
+        "date": "2011-07-12"
+      },
+      {
+        "code": "YS12-EN023",
+        "date": "2012-04-17"
+      },
+      {
+        "code": "BP01-EN033",
+        "date": "2012-05-28"
+      },
+      {
+        "code": "LCYW-EN057",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YS13-ENV13",
+        "date": "2013-06-14"
+      },
+      {
+        "code": "SDBE-EN031",
+        "date": "2013-09-13"
+      },
+      {
+        "code": "YSYR-EN026",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "PGLD-EN057",
+        "date": "2014-03-28"
+      },
+      {
+        "code": "YS14-ENA11",
+        "date": "2014-07-11"
+      },
+      {
+        "code": "BP03-EN133",
+        "date": "2014-08-01"
+      },
+      {
+        "code": "NKRT-EN025",
+        "date": "2014-11-21"
+      },
+      {
+        "code": "YGLD-ENA24",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENB17",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "YGLD-ENC25",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "LDK2-ENY23",
+        "date": "2016-10-07"
+      },
+      {
+        "code": "SDMY-EN029",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "LEDD-ENA25",
+        "date": "2017-10-06"
+      },
+      {
+        "code": "SDPL-EN026",
+        "date": "2018-08-10"
+      },
+      {
+        "code": "EGS1-EN021",
+        "date": "2021-06-18"
+      },
+      {
+        "code": "LOB-EN101",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "STAS-EN009",
+        "date": "2024-01-26"
+      },
+      {
+        "code": "2024-ENP02",
+        "date": "2024-09-07"
+      },
+      {
+        "code": "SBC2-ENA14",
+        "date": "2024-12-13"
+      },
+      {
+        "code": "SBC2-ENG11",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4384": {
+    "atk": 2000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1600,
+    "effectText": "A monster formed by the vengeful souls of those who passed away in battle.",
+    "id": 4384,
+    "level": 6,
+    "linkArrows": "",
+    "name": "Swordstalker",
+    "prints": [
+      {
+        "code": "SDK-025",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DPKB-EN004",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "SBCB-EN089",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "STAX-EN007",
+        "date": "2024-01-26"
+      },
+      {
+        "code": "KC01-EN007",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4200": {
+    "atk": 1200,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "Known as a swamp dweller, this creature is a minion of the dark forces.",
+    "id": 4200,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Terra the Terrible",
+    "prints": [
+      {
+        "code": "LOB-080",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-013",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LOB-EN080",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4138": {
+    "atk": 1200,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "A zombie that suddenly appeared from plot #13 - an empty grave.",
+    "id": 4138,
+    "level": 3,
+    "linkArrows": "",
+    "name": "The 13th Grave",
+    "prints": [
+      {
+        "code": "LOB-014",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN014",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      32,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4810": {
+    "cardType": "spell",
+    "effectText": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+    "id": 4810,
+    "name": "The Flute of Summoning Dragon",
+    "prints": [
+      {
+        "code": "SDK-042",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-031",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "RP01-EN087",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN088",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DPKB-EN030",
+        "date": "2010-04-20"
+      },
+      {
+        "code": "SDDC-EN027",
+        "date": "2012-02-07"
+      },
+      {
+        "code": "DL17-EN013",
+        "date": "2013-12-13"
+      },
+      {
+        "code": "DPBC-EN018",
+        "date": "2015-06-19"
+      },
+      {
+        "code": "SDKS-EN023",
+        "date": "2016-10-21"
+      },
+      {
+        "code": "LCKC-EN027",
+        "date": "2018-03-09"
+      },
+      {
+        "code": "SS02-ENA10",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "STP1-EN006",
+        "date": "2019-04-18"
+      },
+      {
+        "code": "STP6-EN025",
+        "date": "2023-09-06"
+      },
+      {
+        "code": "KC01-EN041",
+        "date": "2024-03-01"
+      },
+      {
+        "code": "RA03-EN087",
+        "date": "2024-11-07"
+      },
+      {
+        "code": "SBC2-ENB13",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4271": {
+    "atk": 800,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+    "id": 4271,
+    "level": 3,
+    "linkArrows": "",
+    "name": "The Furious Sea King",
+    "prints": [
+      {
+        "code": "LOB-033",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN033",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      31,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4848": {
+    "cardType": "spell",
+    "effectText": "Select and see 1 card in your opponent's hand.",
+    "id": 4848,
+    "name": "The Inexperienced Spy",
+    "prints": [
+      {
+        "code": "SDK-037",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-030",
+        "date": "2004-03-01"
+      }
+    ],
+    "thisSrc": {
+      "date": "2004-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4879": {
+    "atk": 1500,
+    "attribute": "light",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
+    "id": 4879,
+    "level": 4,
+    "linkArrows": "",
+    "name": "The Stern Mystic",
+    "prints": [
+      {
+        "code": "SDY-033",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SS01-ENA06",
+        "date": "2019-01-25"
+      }
+    ],
+    "properties": [
+      8,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2019-01-25",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4029": {
+    "atk": 1400,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "Once per turn, during your End Phase: Return this face-up card to the hand.",
+    "id": 4029,
+    "level": 3,
+    "linkArrows": "",
+    "name": "The Wicked Worm Beast",
+    "prints": [
+      {
+        "code": "SDK-004",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "DB2-EN090",
+        "date": "2005-07-27"
+      },
+      {
+        "code": "GLD4-EN003",
+        "date": "2011-07-01"
+      },
+      {
+        "code": "KC01-EN031",
+        "date": "2024-03-01"
+      }
+    ],
+    "properties": [
+      3,
+      4
+    ],
+    "thisSrc": {
+      "date": "2024-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4836": {
+    "cardType": "trap",
+    "effectText": "When your opponent Normal or Flip Summons a monster with 1000 or more ATK: Target that monster; destroy that target.",
+    "id": 4836,
+    "name": "Trap Hole",
+    "prints": [
+      {
+        "code": "LOB-058",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-033",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-027",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-043",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-041",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-042",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SYE-041",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN118",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "HL03-EN003",
+        "date": "2006-06-01"
+      },
+      {
+        "code": "YSDJ-EN034",
+        "date": "2007-07-25"
+      },
+      {
+        "code": "YSDS-EN032",
+        "date": "2007-07-25"
+      },
+      {
+        "code": "RP01-EN007",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "5DS1-EN036",
+        "date": "2008-08-05"
+      },
+      {
+        "code": "DLG1-EN008",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DL09-EN017",
+        "date": "2009-08-01"
+      },
+      {
+        "code": "DT02-EN100",
+        "date": "2010-05-25"
+      },
+      {
+        "code": "5DS3-EN030",
+        "date": "2010-06-01"
+      },
+      {
+        "code": "YS11-EN034",
+        "date": "2011-07-12"
+      },
+      {
+        "code": "YS12-EN032",
+        "date": "2012-04-17"
+      },
+      {
+        "code": "LCYW-EN177",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LCJW-EN073",
+        "date": "2013-10-11"
+      },
+      {
+        "code": "YSKR-EN042",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "YSYR-EN038",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "YS14-EN031",
+        "date": "2014-07-11"
+      },
+      {
+        "code": "YS15-ENY17",
+        "date": "2015-05-28"
+      },
+      {
+        "code": "YS15-ENF24",
+        "date": "2015-05-29"
+      },
+      {
+        "code": "YS15-ENL24",
+        "date": "2015-05-29"
+      },
+      {
+        "code": "SDBT-EN028",
+        "date": "2023-02-24"
+      },
+      {
+        "code": "LOB-EN058",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "RA03-EN085",
+        "date": "2024-11-07"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4230": {
+    "atk": 500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1100,
+    "effectText": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+    "id": 4230,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Trap Master",
+    "prints": [
+      {
+        "code": "SDK-044",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-043",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SKE-018",
+        "date": "2004-03-01"
+      }
+    ],
+    "properties": [
+      12,
+      7,
+      4
+    ],
+    "thisSrc": {
+      "date": "2004-03-01",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4711": {
+    "atk": 2850,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 2350,
+    "effectText": "An unworthy dragon with three sharp horns sprouting from its head.",
+    "id": 4711,
+    "level": 8,
+    "linkArrows": "",
+    "name": "Tri-Horned Dragon",
+    "prints": [
+      {
+        "code": "LOB-000",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LCYW-EN157",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "LOB-EN000",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4125": {
+    "atk": 1300,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 900,
+    "effectText": "This fiend passes judgment on enemies that are locked in coffins.",
+    "id": 4125,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Trial of Nightmare",
+    "prints": [
+      {
+        "code": "LOB-012",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN012",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4465": {
+    "atk": 1200,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "This creature attacks with electromagnetic waves.",
+    "id": 4465,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Tripwire Beast",
+    "prints": [
+      {
+        "code": "LOB-104",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN104",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      38,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4199": {
+    "atk": 1000,
+    "attribute": "water",
+    "cardType": "monster",
+    "def": 1500,
+    "effectText": "A tiger encased in a protective shell that attacks with razor-sharp fangs.",
+    "id": 4199,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Turtle Tiger",
+    "prints": [
+      {
+        "code": "LOB-023",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN023",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      31,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4224": {
+    "atk": 900,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 700,
+    "effectText": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
+    "id": 4224,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Two-Mouth Darkruler",
+    "prints": [
+      {
+        "code": "LOB-030",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN030",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      36,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4839": {
+    "cardType": "trap",
+    "effectText": "Select and destroy 2 of your monsters and 1 of your opponent's monsters.",
+    "id": 4839,
+    "name": "Two-Pronged Attack",
+    "prints": [
+      {
+        "code": "LOB-061",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-034",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-028",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LOB-EN061",
+        "date": "2023-04-21"
+      }
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4019": {
+    "atk": 1200,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1400,
+    "effectText": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
+    "id": 4019,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Tyhone",
+    "prints": [
+      {
+        "code": "LOB-063",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN063",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      35,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4851": {
+    "banlistStatus": 0,
+    "cardType": "trap",
+    "effectText": "During your Main Phase or your opponent's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon/Set 1 monster.",
+    "id": 4851,
+    "name": "Ultimate Offering",
+    "prints": [
+      {
+        "code": "SDK-050",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDY-050",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-047",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-046",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "TP8-EN012",
+        "date": "2006-04-28"
+      },
+      {
+        "code": "SD7-EN027",
+        "date": "2006-05-15"
+      },
+      {
+        "code": "SD10-EN032",
+        "date": "2007-01-17"
+      },
+      {
+        "code": "CP04-EN002",
+        "date": "2007-09-06"
+      },
+      {
+        "code": "DT03-EN099",
+        "date": "2010-09-25"
+      },
+      {
+        "code": "DL13-EN019",
+        "date": "2011-12-01"
+      },
+      {
+        "code": "LART-EN070",
+        "date": "2024-10-09"
+      },
+      {
+        "code": "RA03-EN088",
+        "date": "2024-11-07"
+      }
+    ],
+    "property": "continuous",
+    "thisSrc": {
+      "date": "2024-11-07",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4340": {
+    "cardType": "spell",
+    "effectText": "All Fish, Sea Serpent, Thunder, and Aqua monsters on the field gain 200 ATK/DEF, also all Machine and Pyro monsters on the field lose 200 ATK/DEF.",
+    "id": 4340,
+    "name": "Umi",
+    "prints": [
+      {
+        "code": "LOB-050",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "DB1-EN112",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SBAD-EN031",
+        "date": "2019-05-31"
+      },
+      {
+        "code": "LOB-EN050",
+        "date": "2023-04-21"
+      },
+      {
+        "code": "SBC1-ENC13",
+        "date": "2023-08-25"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-08-25",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4273": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 500,
+    "effectText": "The speed of this warrior creates an intense vacuum that can slice through a monster's hide.",
+    "id": 4273,
+    "level": 3,
+    "linkArrows": "",
+    "name": "Unknown Warrior of Fiend",
+    "prints": [
+      {
+        "code": "SDK-017",
+        "date": "2002-03-29"
+      }
+    ],
+    "properties": [
+      12,
+      6
+    ],
+    "thisSrc": {
+      "date": "2002-03-29",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4086": {
+    "atk": 1500,
+    "attribute": "earth",
+    "cardType": "monster",
+    "def": 800,
+    "effectText": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
+    "id": 4086,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Uraby",
+    "prints": [
+      {
+        "code": "LOB-069",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDK-010",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-006",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SKE-006",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN125",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "SS03-ENA03",
+        "date": "2019-08-02"
+      },
+      {
+        "code": "LOB-EN069",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      36,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4316": {
+    "cardType": "spell",
+    "effectText": "A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "id": 4316,
+    "name": "Vile Germs",
+    "prints": [
+      {
+        "code": "LOB-090",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "LOB-EN090",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4328": {
+    "cardType": "spell",
+    "effectText": "(This card is not treated as a \"Crystal\" card.)\nEquip only to a Zombie monster. It gains 300 ATK/DEF.",
+    "id": 4328,
+    "name": "Violet Crystal",
+    "prints": [
+      {
+        "code": "LOB-042",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SBLS-EN035",
+        "date": "2019-03-29"
+      },
+      {
+        "code": "LOB-EN042",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "equip",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4886": {
+    "cardType": "trap",
+    "effectText": "You take no battle damage this turn. Your monsters cannot be destroyed by battle this turn.",
+    "id": 4886,
+    "name": "Waboku",
+    "prints": [
+      {
+        "code": "SDY-040",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDJ-046",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SDP-044",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SYE-042",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "SD7-EN026",
+        "date": "2006-05-15"
+      },
+      {
+        "code": "SDZW-EN036",
+        "date": "2008-10-21"
+      },
+      {
+        "code": "DT03-EN100",
+        "date": "2010-09-25"
+      },
+      {
+        "code": "BP02-EN170",
+        "date": "2013-06-28"
+      },
+      {
+        "code": "YSYR-EN039",
+        "date": "2013-12-06"
+      },
+      {
+        "code": "SDCR-EN035",
+        "date": "2014-02-07"
+      },
+      {
+        "code": "SBCB-EN143",
+        "date": "2020-11-26"
+      },
+      {
+        "code": "HAC1-EN026",
+        "date": "2022-03-11"
+      },
+      {
+        "code": "STP6-EN028",
+        "date": "2023-09-06"
+      },
+      {
+        "code": "SBC2-ENG18",
+        "date": "2024-12-13"
+      }
+    ],
+    "thisSrc": {
+      "date": "2024-12-13",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4880": {
+    "atk": 1000,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1850,
+    "effectText": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+    "id": 4880,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Wall of Illusion",
+    "prints": [
+      {
+        "code": "SDY-034",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SYE-016",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "TP7-EN014",
+        "date": "2005-11-01"
+      },
+      {
+        "code": "RP01-EN083",
+        "date": "2008-07-08"
+      },
+      {
+        "code": "DLG1-EN084",
+        "date": "2008-11-21"
+      },
+      {
+        "code": "DT04-EN057",
+        "date": "2011-01-28"
+      },
+      {
+        "code": "BPW2-EN002",
+        "date": "2014-01-17"
+      },
+      {
+        "code": "WGRT-EN002",
+        "date": "2014-01-17"
+      },
+      {
+        "code": "SBCB-EN113",
+        "date": "2020-11-26"
+      }
+    ],
+    "properties": [
+      14,
+      4
+    ],
+    "thisSrc": {
+      "date": "2020-11-26",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4337": {
+    "cardType": "spell",
+    "effectText": "All Dinosaur, Zombie, and Rock monsters on the field gain 200 ATK/DEF.",
+    "id": 4337,
+    "name": "Wasteland",
+    "prints": [
+      {
+        "code": "LOB-047",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SBLS-EN036",
+        "date": "2019-03-29"
+      },
+      {
+        "code": "LOB-EN047",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4013": {
+    "atk": 1400,
+    "attribute": "wind",
+    "cardType": "monster",
+    "def": 1200,
+    "effectText": "A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.",
+    "id": 4013,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Winged Dragon, Guardian of the Fortress #1",
+    "prints": [
+      {
+        "code": "SDY-003",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "MRD-002",
+        "date": "2002-06-26"
+      },
+      {
+        "code": "SYE-004",
+        "date": "2004-03-01"
+      },
+      {
+        "code": "DB1-EN141",
+        "date": "2004-10-12"
+      },
+      {
+        "code": "LCYW-EN009",
+        "date": "2012-10-02"
+      },
+      {
+        "code": "YGLD-ENA10",
+        "date": "2015-11-13"
+      },
+      {
+        "code": "SS04-ENA04",
+        "date": "2020-05-15"
+      },
+      {
+        "code": "MRD-EN002",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      21,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4142": {
+    "atk": 1400,
+    "attribute": "dark",
+    "cardType": "monster",
+    "def": 1300,
+    "effectText": "Dressed in a night-black tuxedo, this creature presides over the darkness.",
+    "id": 4142,
+    "level": 4,
+    "linkArrows": "",
+    "name": "Witty Phantom",
+    "prints": [
+      {
+        "code": "LOB-072",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-017",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "LOB-EN072",
+        "date": "2023-04-21"
+      }
+    ],
+    "properties": [
+      14,
+      6
+    ],
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  },
+  "4341": {
+    "cardType": "spell",
+    "effectText": "All Fiend and Spellcaster monsters on the field gain 200 ATK/DEF, also all Fairy monsters on the field lose 200 ATK/DEF.",
+    "id": 4341,
+    "name": "Yami",
+    "prints": [
+      {
+        "code": "LOB-051",
+        "date": "2002-03-08"
+      },
+      {
+        "code": "SDY-045",
+        "date": "2002-03-29"
+      },
+      {
+        "code": "SDP-037",
+        "date": "2003-03-30"
+      },
+      {
+        "code": "SS01-ENC13",
+        "date": "2019-01-25"
+      },
+      {
+        "code": "LOB-EN051",
+        "date": "2023-04-21"
+      }
+    ],
+    "property": "field",
+    "thisSrc": {
+      "date": "2023-04-21",
+      "misc": "en",
+      "type": 2
+    }
+  }
+}
