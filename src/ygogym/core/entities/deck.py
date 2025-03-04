@@ -22,7 +22,7 @@ class Deck:
     def draw(self, count: int = 1) -> List[Card]:
         cards = []
         for _ in range(count):
-            card = self.draw()
+            card = self.main_deck.pop(0)
             if card:
                 cards.append(card)
             else:

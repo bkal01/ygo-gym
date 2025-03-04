@@ -28,16 +28,11 @@ class Player:
                 self.extra_deck.append(card)
     
     def draw(self, count: int = 1) -> List[Card]:
-        if self.deck.remaining_cards() == 0:
+        if count > self.deck.remaining_cards():
             self.has_lost = True
             return []
-        drawn_cards = []
-        for _ in range(min(count, self.deck.remaining_cards())):
-            card = self.deck.draw()
-            if card:
-                self.hand.append(card)
-                card.location = CardLocation.HAND
-                drawn_cards.append(card)
+        drawn_cards = self.deck.draw(count=count)
+        self.hand.extend(drawn_cards)
         return drawn_cards
     
     def summon_monster(self, card_index: int, position: MonsterPosition, tributes: List[int] = None) -> bool:
